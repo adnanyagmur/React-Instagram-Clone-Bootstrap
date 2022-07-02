@@ -4,7 +4,7 @@ import App from './App';
 import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from 'react-bootstrap';
 /* import 'bootstrap/dist/css/bootstrap.min.css'; */
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+/* import '../node_modules/bootstrap/dist/css/bootstrap.min.css'; */
 
 
 
