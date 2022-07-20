@@ -8,7 +8,7 @@ const PostContainer = ()=>{
         <Row>
             <Col>
             <Card>
-                <Card.Text> <h6 className="my-2 mx-2">Kangal5858</h6></Card.Text>
+                <Card.Text> <h6 className="ml2">Kangal5858</h6></Card.Text>
                 <Card.Img src={Kangal}></Card.Img>
           
 
