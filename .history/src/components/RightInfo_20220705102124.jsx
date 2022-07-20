@@ -26,33 +26,33 @@ const RightInfo = () => {
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
                         <span> Ahmetveli</span>
                         </Col>
-                        <Col> <a href="">Takip Et</a> </Col>
+                        <Col className="text-right"> <a href="">Takip Et</a> </Col>
                     </Row>
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kodlyoruz</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row >
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> ayşekısa</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> fatmauzn</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row >
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kangal58</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>

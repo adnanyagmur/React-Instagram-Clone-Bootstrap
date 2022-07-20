@@ -52,7 +52,7 @@ const RightInfo = () => {
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kangal58</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>

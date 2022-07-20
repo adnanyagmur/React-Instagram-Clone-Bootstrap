@@ -11,30 +11,33 @@ const StoryBar = ()=>{
         <Nav>
             <Row>
                 <Col  className="px-3 py-4">
-                    <Image  src={Person1} roundedCircle width="60px" height="60px" ></Image>
-                   <div >Hüseyin</div>
+                    <Image img-thumbnail src={Person1} roundedCircle width="60px" height="60px" ></Image>
+                   <div className="text-center">Hüseyin</div>
                 </Col>
                 <Col  className="px-3 py-4">
                     <Image src={Person2} roundedCircle width="60px" height="60px"></Image>
-                    <div >Fatma</div>
+                    <div className="text-center">Fatma</div>
                 </Col>
                 <Col  className="px-3 py-4">
                     <Image src={Person3} roundedCircle width="60px" height="60px"></Image>
-                    <div >Ali</div>
+                    <div className="text-center">Ali</div>
                 </Col>
-                <Col  className="px-3 py-4 d-none d-sm-block">
+                <Col  className="px-3 py-4">
                      <Image src={Person4} roundedCircle width="60px" height="60px"></Image>
-                     <div>Bartu</div>
+                     <div className="text-center">Bartu</div>
                 </Col>
-                <Col  className="px-3 py-4 d-none d-sm-block">
+                <Col  className="px-3 py-4">
                     <Image src={Person1} roundedCircle width="60px" height="60px" ></Image>
-                    <div>Hasan</div>
+                    <div className="text-center">Hasan</div>
                 </Col>
-                <Col className="px-3 py-4 d-none d-sm-block">
-                    <Image className="" src={Person2} roundedCircle width="60px" height="60px"></Image>
-                    <div >Helin</div>
+                <Col  className="px-3 py-4">
+                    <Image src={Person2} roundedCircle width="60px" height="60px"></Image>
+                    <div className="text-center">Helin</div>
                 </Col>
-                
+                <Col  className="px-3 py-4">
+                    <Image src={Person2} roundedCircle width="60px" height="60px"></Image>
+                    <div className="text-center">Ayşe</div>
+                </Col>
              
                
                 

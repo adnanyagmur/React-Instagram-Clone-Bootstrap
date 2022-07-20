@@ -11,7 +11,7 @@ const StoryBar = ()=>{
         <Nav>
             <Row>
                 <Col  className="px-3 py-4">
-                    <Image  src={Person1} roundedCircle width="60px" height="60px" ></Image>
+                    <Image  src={Person1} circle width="60px" height="60px" ></Image>
                    <div >Hüseyin</div>
                 </Col>
                 <Col  className="px-3 py-4">

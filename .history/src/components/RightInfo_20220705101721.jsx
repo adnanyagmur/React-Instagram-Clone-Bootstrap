@@ -5,7 +5,6 @@ const RightInfo = () => {
     return (
         <div>
             <Row>
-                
                 <Col className="px-5 py-4 d-none d-sm-block">
                     <Image className="" src={Person1} roundedCircle width="60px" height="60px" ></Image>
                 </Col>
@@ -13,46 +12,45 @@ const RightInfo = () => {
                     <h6>Hüseyin Armut</h6>
                 </Col>
             </Row>
-            <Row><br></br> </Row>
+            <Row><div></div> </Row>
             <Row>
                 <Col>
                     <Row>
                         <Col>Öneriler</Col>
                         <Col><h6>Tümünü Gör </h6></Col>
                     </Row>
-                    <br></br>
-                    <Row className="py-2">
+                    <Row>
                         <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
                         <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>
-                    <Row  className="py-2">
+                    <Row>
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kodlyoruz</span>
-                        </Col>
-                        <Col> <a href="">Takip Et</a> </Col>
-                    </Row >
-                    <Row  className="py-2">
-                    <Col>
-                        <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> ayşekısa</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>
-                    <Row  className="py-2">
+                    <Row>
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> fatmauzn</span>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
-                    </Row >
-                    <Row  className="py-2">
+                    </Row>
+                    <Row>
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kangal58</span>
+                        <span> Ahmetveli</span>
+                        </Col>
+                        <Col> <a href="">Takip Et</a> </Col>
+                    </Row>
+                    <Row>
+                    <Col>
+                        <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>

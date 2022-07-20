@@ -22,7 +22,7 @@ const StoryBar = ()=>{
                     <Image src={Person3} roundedCircle width="60px" height="60px"></Image>
                     <div >Ali</div>
                 </Col>
-                <Col  className="px-3 py-4 d-none d-sm-block">
+                <Col  className="px-3 py-4">
                      <Image src={Person4} roundedCircle width="60px" height="60px"></Image>
                      <div>Bartu</div>
                 </Col>
@@ -31,8 +31,8 @@ const StoryBar = ()=>{
                     <div>Hasan</div>
                 </Col>
                 <Col className="px-3 py-4 d-none d-sm-block">
-                    <Image className="" src={Person2} roundedCircle width="60px" height="60px"></Image>
-                    <div >Helin</div>
+                    <Image className="d-none d-sm-block" src={Person2} roundedCircle width="60px" height="60px"></Image>
+                    <div className="text-center d-none d-sm-block">Helin</div>
                 </Col>
                 
              
