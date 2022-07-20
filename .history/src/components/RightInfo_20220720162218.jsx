@@ -24,37 +24,37 @@ const RightInfo = () => {
                     <Row className="py-2">
                         <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> Ahmetveli</span>
+                      Ahmetveli
                         </Col>
-                        <Col> Takip Et</Col>
+                        <Col> <a href="">Takip Et</a> </Col>
                     </Row>
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kodlyoruz</span>
+                      kodlyoruz
                         </Col>
-                        <Col>Takip Et </Col>
+                        <Col> <a href="">Takip Et</a> </Col>
                     </Row >
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> ayşekısa</span>
+                     ayşekısa
                         </Col>
-                        <Col>Takip Et </Col>
+                        <Col> <a href="">Takip Et</a> </Col>
                     </Row>
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> fatmauzn</span>
+                        fatmauzn
                         </Col>
-                        <Col> Takip Et </Col>
+                        <Col> <a href="">Takip Et</a> </Col>
                     </Row >
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <span> kangal58</span>
+                     kangal58
                         </Col>
-                        <Col> Takip Et</Col>
+                        <Col> <a href="">Takip Et</a> </Col>
                     </Row>
 
 
