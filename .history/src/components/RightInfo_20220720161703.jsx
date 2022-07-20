@@ -24,7 +24,7 @@ const RightInfo = () => {
                     <Row className="py-2">
                         <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <> Ahmetveli</>
+                        <span> Ahmetveli</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>
@@ -38,14 +38,14 @@ const RightInfo = () => {
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <> ayşekısa</>
+                        <span> ayşekısa</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row>
                     <Row  className="py-2">
                     <Col>
                         <Image className="pl-0" src={Person1} roundedCircle width="40px" height="40px" ></Image>
-                        <> fatmauzn</>
+                        <span> fatmauzn</span>
                         </Col>
                         <Col> <a href="">Takip Et</a> </Col>
                     </Row >
